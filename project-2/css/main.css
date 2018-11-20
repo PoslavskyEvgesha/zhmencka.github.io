@@ -118,7 +118,7 @@ section {
     height: 40px;
     width: 30px;
     opacity: 1;
-    background-image: url(img/mouse.svg);
+    background-image: url(../img/mouse.svg);
     background-position: center center;
     background-size: cover;
     -webkit-transition: .2s .3s all;
@@ -166,7 +166,7 @@ section {
       -webkit-transform: translateY(-100%);
           -ms-transform: translateY(-100%);
               transform: translateY(-100%);
-      background-image: url(img/1.jpeg);
+      background-image: url(../img/1.jpeg);
       background-position: center center;
       background-size: cover;
       -webkit-transition: .3s .3s all;

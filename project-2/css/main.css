@@ -118,7 +118,7 @@ section {
     height: 40px;
     width: 30px;
     opacity: 1;
-    background-image: url(../img/mouse.svg);
+    background-image: url(img/mouse.svg);
     background-position: center center;
     background-size: cover;
     -webkit-transition: .2s .3s all;
@@ -166,7 +166,7 @@ section {
       -webkit-transform: translateY(-100%);
           -ms-transform: translateY(-100%);
               transform: translateY(-100%);
-      background-image: url(../img/1.jpeg);
+      background-image: url(img/1.jpeg);
       background-position: center center;
       background-size: cover;
       -webkit-transition: .3s .3s all;
@@ -487,19 +487,19 @@ section {
     -o-transition: .5s .2s all ease;
     transition: .5s .2s all ease; }
     section .wrapper-close .img:nth-child(2) {
-      background-image: url(../img/_1.jpg);
+      background-image: url(img/_1.jpg);
       background-position: center center;
       background-size: cover; }
     section .wrapper-close .img:nth-child(3) {
-      background-image: url(../img/_2.jpg);
+      background-image: url(img/_2.jpg);
       background-position: center center;
       background-size: cover; }
     section .wrapper-close .img:nth-child(4) {
-      background-image: url(../img/_3.jpg);
+      background-image: url(img/_3.jpg);
       background-position: center center;
       background-size: cover; }
     section .wrapper-close .img:nth-child(5) {
-      background-image: url(../img/_4.jpg);
+      background-image: url(img/_4.jpg);
       background-position: center center;
       background-size: cover; }
     section .wrapper-close .titles {
@@ -525,19 +525,19 @@ section {
     -o-transition: .5s .2s all ease;
     transition: .5s .2s all ease; }
     section .box-sliders .img:nth-child(1) {
-      background-image: url(../img/1.jpeg);
+      background-image: url(img/1.jpeg);
       background-position: center center;
       background-size: cover; }
     section .box-sliders .img:nth-child(2) {
-      background-image: url(../img/2.jpeg);
+      background-image: url(img/2.jpeg);
       background-position: center center;
       background-size: cover; }
     section .box-sliders .img:nth-child(3) {
-      background-image: url(../img/3.jpeg);
+      background-image: url(img/3.jpeg);
       background-position: center center;
       background-size: cover; }
     section .box-sliders .img:nth-child(4) {
-      background-image: url(../img/4.jpeg);
+      background-image: url(img/4.jpeg);
       background-position: center center;
       background-size: cover; }
   section .number-sliders {

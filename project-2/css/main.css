@@ -487,11 +487,11 @@ section {
     -o-transition: .5s .2s all ease;
     transition: .5s .2s all ease; }
     section .wrapper-close .img:nth-child(2) {
-      background-image: url(img/_1.jpg);
+      background-image: url(/img/_1.jpg);
       background-position: center center;
       background-size: cover; }
     section .wrapper-close .img:nth-child(3) {
-      background-image: url(img/_2.jpg);
+      background-image: url(../img/_2.jpg);
       background-position: center center;
       background-size: cover; }
     section .wrapper-close .img:nth-child(4) {
